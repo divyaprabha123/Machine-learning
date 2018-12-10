@@ -1,1 +1,1 @@
-# Multinomial logistic Regression models
+# Logistic Regression model with BFGS optimization
